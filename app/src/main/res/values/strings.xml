@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework6.4</string>
+    <string name="title_math">Math</string>
+    <string name="title_result">Result</string>
+    <string name="title_memory">Memory</string>
+    <string name="number">1</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
